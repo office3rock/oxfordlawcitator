@@ -1,5 +1,5 @@
 {
-  "baseUrl": "oxfordlawcitator.ussl.co.il",
+  "baseUrl": "reshet.ussl.app/oxfordlawcitator",
   "protocol": "https",
   "hostingWPCOM": false,
   "useACF": true,
